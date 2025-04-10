@@ -8,6 +8,6 @@ Projet de recherche M2 2025 - Stephen Cohen
 
 
 ---
-1. Les recherches théoriques ici mises en application sont disponibles dans le fichier [Theorie.md](./Theorie.md)
+1. Les recherches théoriques ici mises en application sont disponibles dans le fichier [Theorie.md](./Theorie.md) / [Theorie.pdf](./Theorie.pdf)
 2. Le code est disponible dans le fichier [Notebook.ipynb](./Notebook.ipynb)
-3. Le Rapport complet est disponible dans le fichier [Rapport.ipynb](./Rapport.ipynb)
+3. Le Rapport complet est disponible dans le fichier [Rapport.md](./Rapport.md) / [Rapport.pdf](./Rapport.pdf)
